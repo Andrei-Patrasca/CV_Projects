@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1713353237 source:c:\school things\codebloks-projects\pp-andreipatrasca\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"fileIO.h"
+
+1713432328 source:c:\school things\codebloks-projects\pp-andreipatrasca\fileio.c
+	"fileIO.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1713432328 c:\school things\codebloks-projects\pp-andreipatrasca\include\fileio.h
+	<stdio.h>
+	<string.h>
+
+1713452836 source:c:\school things\codebloks-projects\pp-andreipatrasca\functionalities.c
+	"fileIO.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
