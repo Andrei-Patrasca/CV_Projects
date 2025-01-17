@@ -1,0 +1,5 @@
+Hello and welcome!
+Program Arguments:
+BankAccount
+
+Error: Unknown argument 'BankAccount'. Expected 'words', 'numbers', or 'play'.
